@@ -53,8 +53,8 @@ My research interests lie in data-driven decision making, with applications span
 
 # 📖 Teaching
 - Teaching Assistant, The Chinese University of Hong Kong
-  - SEEM 5740/ECLT 5390 Engineering Economics, 2026 Spring
-  - SEEM 3650 Fundamentals in Decision and Data Analytics, 2026 Spring
+  - SEEM 5740/ECLT 5390 Engineering Economics, Spring 2026
+  - SEEM 3650 Fundamentals in Decision and Data Analytics, Spring 2026
   - SEEM 5710 Principles of Operations Management, Spring 2025
   - ENGG 2760 Probabilities for Engineers, Spring 2025
   - ENGG 2440 Discrete Math for Engineers, Fall 2024
