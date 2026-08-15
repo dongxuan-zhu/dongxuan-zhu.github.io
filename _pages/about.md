@@ -19,7 +19,7 @@ redirect_from:
 
 I am a third-year PhD student in the [Department of Systems Engineering and Engineering Management](https://www.se.cuhk.edu.hk/) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/), where I am supervised by Professor [Viet Anh Nguyen](https://www.vietanhnguyen.net/). Previously, I obtained a M.S. in Mathematics from [Nanjing University](https://www.nju.edu.cn/) in 2024, where I was co-supervised by Professor [Houcai Shen](https://sme.nju.edu.cn/shc/list.psp) and Professor [Caihua Chen](https://sme.nju.edu.cn/cch/list.psp).  I also obtained a B.S. in Mathematics and Applied Mathematics from [Sichuan University](https://www.scu.edu.cn/) in 2021.
 
-My research interests lie in data-driven decision making, with applications spanning machine learning and operations research. Broadly, I focus on developing efficient algorithms that turn data into reliable decisions under uncertainty and limited resources, with an emphasis on computational scalability and practical performance. You can find my [CV here](assets/DongxuanZhu_CV.pdf).
+I am broadly interested in data-driven decision making, with applications spanning machine learning and operations research. My work focuses on designing efficient algorithms that turn data into reliable decisions under uncertainty, with an emphasis on scalability and practical performance. You can find my [CV here](assets/DongxuanZhu_CV.pdf).
 
 
 # 🔥 News
